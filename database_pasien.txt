@@ -1,0 +1,3 @@
+102|Raden|Sakit kepala
+101|Surya|Hidung mampet
+103|Wibowo|telinga sakit
